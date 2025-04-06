@@ -12,11 +12,6 @@ Este repositório contém a solução para o desafio de criar um site responsivo
 * HTML5
 * CSS3
 
-**Como Executar:**
-
-1. Clone este repositório: `git clone [link do repositório]`
-2. Abra o arquivo `index.html` em seu navegador.
-
 **Recursos:**
 
 * Todos os arquivos necessários (HTML, CSS, imagens, etc.) estão incluídos neste repositório.
